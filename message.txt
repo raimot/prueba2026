@@ -1,0 +1,6 @@
+🧹 chore: initial commit
+
+Se inicializa el repositorio con los archivos básicos como
+README.md, documentos y la carpeta de habilidades
+del agente (.agents). También se agrega el archivo 
+.gitignore con exclusiones estándar.
