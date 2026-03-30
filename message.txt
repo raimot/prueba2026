@@ -1,6 +1,8 @@
-🧹 chore: initial commit
+✨ feat(agents): add powershell support to roll-dice skill
 
-Se inicializa el repositorio con los archivos básicos como
-README.md, documentos y la carpeta de habilidades
-del agente (.agents). También se agrega el archivo 
-.gitignore con exclusiones estándar.
+Se actualiza la skill roll-dice en .agents/SKILL.md para incluir
+soporte en PowerShell además del bash original. Se añade el comando
+`Get-Random` como alternativa para entornos Windows.
+
+Además se incluye el archivo prueba.txt como archivo de prueba
+de cambios en el repositorio.
